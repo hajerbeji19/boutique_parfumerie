@@ -2,7 +2,7 @@ import React from 'react'
 
 import french_club from '../assets/french_club.jpg'
 import my_way from '../assets/my_way.jpg'
-import eternity from '../assets/eternity.jpg'
+import elie_saab from '../assets/elie_saab.jpg'
 import coco_chanel from '../assets/coco_chanel.jpg'
 
 const Products = () => {
@@ -80,15 +80,15 @@ const Products = () => {
           <div className="card product-card h-100">
 
             <img
-              src={eternity}
+              src={elie_saab}
               className="card-img-top product-image"
-              alt="Eternity"
+              alt="Elie Saab"
             />
 
             <div className="card-body text-center">
 
               <h5 className="card-title">
-                Eternity
+                Elie Saab
               </h5>
 
               <p className="fw-bold">
